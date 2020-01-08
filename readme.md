@@ -4,7 +4,8 @@
     * 数値の出力
     * 文字の連結
     * 最小公倍数
-    
+    * 整数の順番
+        
 * [149](https://atcoder.jp/contests/abc149/tasks)
     * 整数の連結
     * 二重if文
