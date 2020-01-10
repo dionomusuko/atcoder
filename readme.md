@@ -10,3 +10,8 @@
     * 整数の連結
     * 二重if文
     * 素数の最小値
+    
+* [150](https://atcoder.jp/contests/abc150/tasks)
+    * if文
+    * 配列から要素を抜き出す
+    * 順列の順番
