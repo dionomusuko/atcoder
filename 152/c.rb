@@ -2,8 +2,7 @@ n = gets.to_i
 array = gets.chop.split.map(&:to_i)
 
 count = 0
-ary = []
-tmp = 1000000000000000
+tmp = array[0]
 
 array.each do |num|
   if tmp > num
